@@ -1,0 +1,2 @@
+400     9KB  https://mta-sts.forwarding.hackerone.com:443/%2e%2e//google.com
+301   162B   https://mta-sts.forwarding.hackerone.com:443/assets    -> REDIRECTS TO: https://mta-sts.forwarding.hackerone.com/assets/

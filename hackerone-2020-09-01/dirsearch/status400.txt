@@ -1,0 +1,23 @@
+dirsearch/http_hackerone_com.txt:400   155B   http://hackerone.com:80/%2e%2e//google.com
+dirsearch/https_mta-sts_managed_hackerone_com.txt:400     9KB  https://mta-sts.managed.hackerone.com:443/%2e%2e//google.com
+dirsearch/http_mta-sts_managed_hackerone_com.txt:400     9KB  http://mta-sts.managed.hackerone.com:80/%2e%2e//google.com
+dirsearch/http_www_hackerone_com.txt:400   155B   http://www.hackerone.com:80/%2e%2e//google.com
+dirsearch/https_hackerone_com.txt:400   155B   https://hackerone.com:443/%2e%2e//google.com
+dirsearch/https_hackerone_com.txt:429    12B   https://hackerone.com:443/servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.ControllerServlet
+dirsearch/http_mta-sts_hackerone_com.txt:400     9KB  http://mta-sts.hackerone.com:80/%2e%2e//google.com
+dirsearch/http_cover-photos-us-east-2_hackerone-user-content_com.txt:400   915B   http://cover-photos-us-east-2.hackerone-user-content.com:80/%2e%2e//google.com
+dirsearch/http_hackerone-user-content_com.txt:400   155B   http://hackerone-user-content.com:80/%2e%2e//google.com
+dirsearch/https_mta-sts_hackerone_com.txt:400     9KB  https://mta-sts.hackerone.com:443/%2e%2e//google.com
+dirsearch/https_mta-sts_forwarding_hackerone_com.txt:400     9KB  https://mta-sts.forwarding.hackerone.com:443/%2e%2e//google.com
+dirsearch/https_www_hackerone_com.txt:400   155B   https://www.hackerone.com:443/%2e%2e//google.com
+dirsearch/http_resources_hackerone_com.txt:429    32B   http://resources.hackerone.com:80/servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.ControllerServlet
+dirsearch/http_mta-sts_forwarding_hackerone_com.txt:400     9KB  http://mta-sts.forwarding.hackerone.com:80/%2e%2e//google.com
+dirsearch/http_docs_hackerone_com.txt:400     9KB  http://docs.hackerone.com:80/%2e%2e//google.com
+dirsearch/http_support_hackerone_com.txt:400   155B   http://support.hackerone.com:80/%2e%2e//google.com
+dirsearch/http_support_hackerone_com.txt:301   102B   http://support.hackerone.com:80/servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.ControllerServlet    -> REDIRECTS TO: https://support.hackerone.com/hc/404
+dirsearch/http_hackerone-ext-content_com.txt:400   155B   http://hackerone-ext-content.com:80/%2e%2e//google.com
+dirsearch/http_api_hackerone_com.txt:400   155B   http://api.hackerone.com:80/%2e%2e//google.com
+dirsearch/https_docs_hackerone_com.txt:400     9KB  https://docs.hackerone.com:443/%2e%2e//google.com
+dirsearch/https_api_hackerone_com.txt:400   155B   https://api.hackerone.com:443/%2e%2e//google.com
+dirsearch/https_support_hackerone_com.txt:400   155B   https://support.hackerone.com:443/%2e%2e//google.com
+dirsearch/https_resources_hackerone_com.txt:429    32B   https://resources.hackerone.com:443/servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.ControllerServlet

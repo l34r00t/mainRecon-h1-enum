@@ -1,0 +1,16 @@
+https://hackerone.com/redirect?signature=074e28ca927da70c2d4f8f93a727dcb3e39f443a&url=http://hk.celebrity.yahoo.net/ymusic/admin/index.php?r=movieRanking/update%26id=53
+https://hackerone.com/redirect?signature=1a7ba2cecebedbea0f0eceda223613fccbcde756&url=http://hk.promotion.yahoo.net/education/api/get_video_poll_result.php?poll_id=9805
+https://hackerone.com/redirect?signature=2f263572ca50d9e361ff2741d10357919fa07178&url=http%3A%2F%2Fbf1-adxdb-001.data.bf1.yahoo.com%2Fabout.php
+https://hackerone.com/redirect?signature=3be4362212343cb324cd9aac3cf7e2fdf2d71bcb&url=http%3A%2F%2Fdaniel-tomescu.com%2Fhackerone%2Flandpage.php
+https://hackerone.com/redirect?signature=48505bd72e473c98c71ce4234878ce221ea8ced2&url=https%3A%2F%2Fforum.getmonero.org%2Fuploads%2Fprofile%2FlNobodyl1527340454.php
+https://hackerone.com/redirect?signature=4a1f7b2685d83dafe5d037045b040458d09943c0&url=https%3A%2F%2Fgetmonero.org%2Flanguage.php
+https://hackerone.com/redirect?signature=54a17be025f93de3a0131948d97c1fc641eab773&url=http%3A%2F%2Fbf1-adxdb-001.data.bf1.yahoo.com%2Ftestdb.php
+https://hackerone.com/redirect?signature=6458e1fc835e41f490964333ab5673d8a66e3930&url=http://www.php.net/ChangeLog-5.php
+https://hackerone.com/redirect?signature=98e7f36fb9908725cc6c62ae1c0766ad13f8e43b&url=http://hk.promotion.yahoo.net/education/api/get_video_poll.php?poll_id=9805
+https://hackerone.com/redirect?signature=aa88ce9813a7a36510ed46be556750c396a07ebc&url=https%3A%2F%2Fnordvpn.com%2Fxmlrpc.php
+https://hackerone.com/redirect?signature=ad03f7365cabb22988d34122515c7d5cc8a2f7cc&url=http://hk.promotion.yahoo.net/education/api/get_video_poll_choice.php?poll_id=9805
+https://hackerone.com/redirect?signature=cc4d891a5c0b09100e064a49b39a71f425cab45b&url=https%3A%2F%2Fforum.getmonero.org%2Fuploads%2Fprofile%2FlNobodyl1527341021.php
+https://hackerone.com/redirect?signature=df383a053e80a49428a533c2bc2b4931e418ca3c&url=http://hk.celebrity.yahoo.net/ymusic/admin/index.php
+https://profile-photos.hackerone-user-content.com/production/000/002/902/45dee2cf1c634fffd6890ae8f357c0f01b3cbe7f_large.php?1394007758
+https://profile-photos.hackerone-user-content.com/production/000/002/902/d8d1c547353453fd4a2b8dd67bc4329692cc212c_xtralarge.php?1394007758
+https://www.hackerone.com/core/modules/statistics/statistics.php

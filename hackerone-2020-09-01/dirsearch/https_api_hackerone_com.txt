@@ -1,0 +1,6 @@
+400   155B   https://api.hackerone.com:443/%2e%2e//google.com
+301   162B   https://api.hackerone.com:443/assets    -> REDIRECTS TO: https://api.hackerone.com/assets/
+200     8KB  https://api.hackerone.com:443/index.html
+401    27B   https://api.hackerone.com:443/v1/public/yql
+401    27B   https://api.hackerone.com:443/v1/test/js/console.html
+401    27B   https://api.hackerone.com:443/v1/test/js/console_ajax.js

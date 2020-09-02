@@ -1,0 +1,265 @@
+403    17B   https://www.hackerone.com:443/_config.inc
+403    17B   https://www.hackerone.com:443/.abcdefghijklmnop/
+403    17B   https://www.hackerone.com:443/..%3B/
+403    17B   https://www.hackerone.com:443/.ansible/
+403    17B   https://www.hackerone.com:443/.aspnet/DataProtection-Keys/
+403    17B   https://www.hackerone.com:443/.aws/
+403    17B   https://www.hackerone.com:443/.admin/
+403    17B   https://www.hackerone.com:443/.cfg/
+403    17B   https://www.hackerone.com:443/.circleci/
+403    17B   https://www.hackerone.com:443/.components/
+403    17B   https://www.hackerone.com:443/.conda/
+403    17B   https://www.hackerone.com:443/.configuration/
+403    17B   https://www.hackerone.com:443/.cpan/
+403    17B   https://www.hackerone.com:443/.controls/
+403    17B   https://www.hackerone.com:443/.cpanel/caches/config/
+403    17B   https://www.hackerone.com:443/.cpanm/
+403    17B   https://www.hackerone.com:443/.cpcache/
+403    17B   https://www.hackerone.com:443/.dbus/
+403    17B   https://www.hackerone.com:443/.config/
+403    17B   https://www.hackerone.com:443/.docs/
+403    17B   https://www.hackerone.com:443/.docker/
+403    17B   https://www.hackerone.com:443/.dropbox/
+403    17B   https://www.hackerone.com:443/.dynamodb/
+403    17B   https://www.hackerone.com:443/.data/
+403    17B   https://www.hackerone.com:443/.eggs/
+403    17B   https://www.hackerone.com:443/.ensime_lucene/
+403    17B   https://www.hackerone.com:443/.emails/
+403    17B   https://www.hackerone.com:443/.ensime_cache/
+403    17B   https://www.hackerone.com:443/.elixir_ls/
+403    17B   https://www.hackerone.com:443/.clcbio/
+403    17B   https://www.hackerone.com:443/.externaltoolbuilders/
+403    17B   https://www.hackerone.com:443/.fake/
+403    17B   https://www.hackerone.com:443/.filezilla/
+403    17B   https://www.hackerone.com:443/.fop/
+403    17B   https://www.hackerone.com:443/.fusebox/
+403    17B   https://www.hackerone.com:443/.git-rewrite/
+403    17B   https://www.hackerone.com:443/.git/
+403    17B   https://www.hackerone.com:443/.git/hooks/
+403    17B   https://www.hackerone.com:443/.git/info/
+403    17B   https://www.hackerone.com:443/.git/logs/
+403    17B   https://www.hackerone.com:443/.git/branches/
+403    17B   https://www.hackerone.com:443/.git/refs/
+403    17B   https://www.hackerone.com:443/.github/
+403    17B   https://www.hackerone.com:443/.git2/
+403    17B   https://www.hackerone.com:443/.gnupg/
+403    17B   https://www.hackerone.com:443/.gphoto/
+403    17B   https://www.hackerone.com:443/.gradle/
+403    17B   https://www.hackerone.com:443/.gitignore/
+403    17B   https://www.hackerone.com:443/.gwt-tmp/
+403    17B   https://www.hackerone.com:443/.gwt/
+403    17B   https://www.hackerone.com:443/.hg/
+403    17B   https://www.hackerone.com:443/.hg/store/data/
+403    17B   https://www.hackerone.com:443/.idea/libraries/
+403    17B   https://www.hackerone.com:443/.idea0/
+403    17B   https://www.hackerone.com:443/.import/
+403    17B   https://www.hackerone.com:443/.git/objects/
+403    17B   https://www.hackerone.com:443/.interproscan-5/
+403    17B   https://www.hackerone.com:443/.ionide/
+403    17B   https://www.hackerone.com:443/.gnome/
+403    17B   https://www.hackerone.com:443/.jekyll-cache/
+403    17B   https://www.hackerone.com:443/.java/
+403    17B   https://www.hackerone.com:443/.idea/
+403    17B   https://www.hackerone.com:443/.kdev4/
+403    17B   https://www.hackerone.com:443/.kitchen/
+403    17B   https://www.hackerone.com:443/.lein-plugins/
+403    17B   https://www.hackerone.com:443/.lgt_tmp/
+403    17B   https://www.hackerone.com:443/.localhistory/
+403    17B   https://www.hackerone.com:443/.libs/
+403    17B   https://www.hackerone.com:443/.m/
+403    17B   https://www.hackerone.com:443/.local/
+403    17B   https://www.hackerone.com:443/.hypothesis/
+403    17B   https://www.hackerone.com:443/.lib/
+403    17B   https://www.hackerone.com:443/.mozilla/
+403    17B   https://www.hackerone.com:443/.masterpages/
+403    17B   https://www.hackerone.com:443/.mono/
+403    17B   https://www.hackerone.com:443/.meteor/
+403    17B   https://www.hackerone.com:443/.mfractor/
+403    17B   https://www.hackerone.com:443/.navigation/
+403    17B   https://www.hackerone.com:443/.mypy_cache/
+403    17B   https://www.hackerone.com:443/.nb-gradle/
+403    17B   https://www.hackerone.com:443/.mtj.tmp/
+403    17B   https://www.hackerone.com:443/.oh-my-zsh/
+403    17B   https://www.hackerone.com:443/.oracle_jre_usage/
+403    17B   https://www.hackerone.com:443/.npm/
+403    17B   https://www.hackerone.com:443/.nvm/
+403    17B   https://www.hackerone.com:443/.nuget/
+403    17B   https://www.hackerone.com:443/.otto/
+403    17B   https://www.hackerone.com:443/.nox/
+403    17B   https://www.hackerone.com:443/.pac/
+403    17B   https://www.hackerone.com:443/.perlbrew/
+403    17B   https://www.hackerone.com:443/.parallel/
+403    17B   https://www.hackerone.com:443/.paket/
+403    17B   https://www.hackerone.com:443/.pki/
+403    17B   https://www.hackerone.com:443/.pm2/
+403    17B   https://www.hackerone.com:443/.nv/
+403    17B   https://www.hackerone.com:443/.preview/
+403    17B   https://www.hackerone.com:443/.pyre/
+403    17B   https://www.hackerone.com:443/.pytest_cache/
+403    17B   https://www.hackerone.com:443/.puppet/
+403    17B   https://www.hackerone.com:443/.recommenders/
+403    17B   https://www.hackerone.com:443/.rts2_cache_cjs/
+403    17B   https://www.hackerone.com:443/.rts2_cache_es/
+403    17B   https://www.hackerone.com:443/.rpmdb/
+403    17B   https://www.hackerone.com:443/.rpt2_cache/
+403    17B   https://www.hackerone.com:443/.rts2_cache_umd/
+403    17B   https://www.hackerone.com:443/.serverless/
+403    17B   https://www.hackerone.com:443/.stack-work/
+403    17B   https://www.hackerone.com:443/.stat/
+403    17B   https://www.hackerone.com:443/.temp/
+403    17B   https://www.hackerone.com:443/.terraform/
+403    17B   https://www.hackerone.com:443/.templates/
+403    17B   https://www.hackerone.com:443/.tmp_versions/
+403    17B   https://www.hackerone.com:443/.thunderbird/
+403    17B   https://www.hackerone.com:443/.tools/phpMyAdmin/current/
+403    17B   https://www.hackerone.com:443/.tools/phpMyAdmin/
+403    17B   https://www.hackerone.com:443/.tmp/
+403    17B   https://www.hackerone.com:443/.trash/
+403    17B   https://www.hackerone.com:443/.tox/
+403    17B   https://www.hackerone.com:443/.travis/
+403    17B   https://www.hackerone.com:443/.vagrant/
+403    17B   https://www.hackerone.com:443/.vs/
+403    17B   https://www.hackerone.com:443/.vscode/
+403    17B   https://www.hackerone.com:443/.vmware/
+403    17B   https://www.hackerone.com:443/.vim/
+403    17B   https://www.hackerone.com:443/.w3m/
+403    17B   https://www.hackerone.com:443/.x-formation/
+403    17B   https://www.hackerone.com:443/.yardoc/
+400   155B   https://www.hackerone.com:443/%2e%2e//google.com
+301   378B   https://www.hackerone.com:443/about    -> REDIRECTS TO: https://www.hackerone.com/company
+403    64KB  https://www.hackerone.com:443/admin
+403    17B   https://www.hackerone.com:443/admin/.config
+403    17B   https://www.hackerone.com:443/admin/.htaccess
+403    64KB  https://www.hackerone.com:443/admin/?/login
+403    64KB  https://www.hackerone.com:443/admin/
+403    64KB  https://www.hackerone.com:443/admin/index
+403    17B   https://www.hackerone.com:443/administrator/.htaccess
+403    17B   https://www.hackerone.com:443/adovbs.inc
+403    17B   https://www.hackerone.com:443/admpar/.ftppass
+403    17B   https://www.hackerone.com:443/admrev/.ftppass
+403    17B   https://www.hackerone.com:443/app/.htaccess
+301   240B   https://www.hackerone.com:443/assets    -> REDIRECTS TO: http://www.hackerone.com/assets/
+403    17B   https://www.hackerone.com:443/auth.inc
+403    17B   https://www.hackerone.com:443/backup.inc
+403    17B   https://www.hackerone.com:443/backups.inc
+403    17B   https://www.hackerone.com:443/build.sh
+200    59KB  https://www.hackerone.com:443/blog
+200    39KB  https://www.hackerone.com:443/book
+200    84KB  https://www.hackerone.com:443/careers
+403    17B   https://www.hackerone.com:443/common.inc
+403    17B   https://www.hackerone.com:443/composer.json
+403    17B   https://www.hackerone.com:443/composer.lock
+403    17B   https://www.hackerone.com:443/config.inc
+403    17B   https://www.hackerone.com:443/config.inc.php~
+403    17B   https://www.hackerone.com:443/config.inc.bak
+403    17B   https://www.hackerone.com:443/config.inc~
+403    17B   https://www.hackerone.com:443/config.php.swp
+403    17B   https://www.hackerone.com:443/config.php.bak
+403    17B   https://www.hackerone.com:443/config.php.save
+403    17B   https://www.hackerone.com:443/config.php.inc~
+403    17B   https://www.hackerone.com:443/config.php.inc
+403    17B   https://www.hackerone.com:443/config.php~
+200    54KB  https://www.hackerone.com:443/company
+403    17B   https://www.hackerone.com:443/configuration.php.bak
+403    17B   https://www.hackerone.com:443/configuration.php.save
+403    17B   https://www.hackerone.com:443/configuration.php~
+403    17B   https://www.hackerone.com:443/configuration.php.swp
+403    17B   https://www.hackerone.com:443/connect.inc
+200    43KB  https://www.hackerone.com:443/contact
+301   238B   https://www.hackerone.com:443/core    -> REDIRECTS TO: http://www.hackerone.com/core/
+403    17B   https://www.hackerone.com:443/cron.sh
+403    64KB  https://www.hackerone.com:443/cron/cron.sh
+200    48KB  https://www.hackerone.com:443/cookies
+403    17B   https://www.hackerone.com:443/database.inc
+403    17B   https://www.hackerone.com:443/database_credentials.inc
+403    17B   https://www.hackerone.com:443/database.yml~
+200    49KB  https://www.hackerone.com:443/customers
+403    17B   https://www.hackerone.com:443/db.inc
+403    17B   https://www.hackerone.com:443/debug.inc
+403    17B   https://www.hackerone.com:443/dump.inc
+301   370B   https://www.hackerone.com:443/directory    -> REDIRECTS TO: https://hackerone.com/directory
+403    17B   https://www.hackerone.com:443/error.tpl
+403    17B   https://www.hackerone.com:443/error1.tpl
+403    17B   https://www.hackerone.com:443/errors.tpl
+200    51KB  https://www.hackerone.com:443/events
+200     5KB  https://www.hackerone.com:443/favicon.ico
+301   239B   https://www.hackerone.com:443/files    -> REDIRECTS TO: http://www.hackerone.com/files/
+301   263B   https://www.hackerone.com:443/forum/install/install.php    -> REDIRECTS TO: http://www.hackerone.com/forum/install/core/install.php
+403    17B   https://www.hackerone.com:443/globals.inc
+301   350B   https://www.hackerone.com:443/home    -> REDIRECTS TO: https://www.hackerone.com/
+301   242B   https://www.hackerone.com:443/includes    -> REDIRECTS TO: http://www.hackerone.com/includes/
+403    17B   https://www.hackerone.com:443/includes/adovbs.inc
+403    17B   https://www.hackerone.com:443/includes/configure.php~
+403    17B   https://www.hackerone.com:443/index.inc
+403    17B   https://www.hackerone.com:443/index.php~
+403    17B   https://www.hackerone.com:443/index.php.bak
+403    17B   https://www.hackerone.com:443/install.inc
+301   350B   https://www.hackerone.com:443/index.php    -> REDIRECTS TO: https://www.hackerone.com/
+403    17B   https://www.hackerone.com:443/install.tpl
+301   249B   https://www.hackerone.com:443/install.php    -> REDIRECTS TO: http://www.hackerone.com/core/install.php
+403    17B   https://www.hackerone.com:443/lib/flex/uploader/.actionScriptProperties
+403    17B   https://www.hackerone.com:443/lib/flex/uploader/.flexProperties
+403    17B   https://www.hackerone.com:443/lib/flex/uploader/.settings
+403    17B   https://www.hackerone.com:443/lib/flex/uploader/.project
+403    17B   https://www.hackerone.com:443/lib/flex/varien/.actionScriptProperties
+403    17B   https://www.hackerone.com:443/lib/flex/varien/.flexLibProperties
+403    17B   https://www.hackerone.com:443/lib/flex/varien/.project
+403   461B   https://www.hackerone.com:443/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403    17B   https://www.hackerone.com:443/lib/flex/varien/.settings
+403   461B   https://www.hackerone.com:443/lib/phpunit/src/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/lib/phpunit/Util/PHP/eval-stdin.php
+301   243B   https://www.hackerone.com:443/libraries    -> REDIRECTS TO: http://www.hackerone.com/libraries/
+403   461B   https://www.hackerone.com:443/lib/phpunit/phpunit/Util/PHP/eval-stdin.php
+403    17B   https://www.hackerone.com:443/localsettings.php.swp
+403    17B   https://www.hackerone.com:443/localsettings.php.save
+403    17B   https://www.hackerone.com:443/localsettings.php.bak
+403    17B   https://www.hackerone.com:443/localsettings.php~
+301   241B   https://www.hackerone.com:443/modules    -> REDIRECTS TO: http://www.hackerone.com/modules/
+403    17B   https://www.hackerone.com:443/modules/web.config
+200    50KB  https://www.hackerone.com:443/node
+200    44KB  https://www.hackerone.com:443/partners
+403   461B   https://www.hackerone.com:443/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/phpunit/phpunit/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/phpunit/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/phpunit/src/Util/PHP/eval-stdin.php
+200    59KB  https://www.hackerone.com:443/press
+301   414B   https://www.hackerone.com:443/product    -> REDIRECTS TO: https://www.hackerone.com/product/overview
+301   242B   https://www.hackerone.com:443/profiles    -> REDIRECTS TO: http://www.hackerone.com/profiles/
+200    69KB  https://www.hackerone.com:443/privacy
+301   414B   https://www.hackerone.com:443/products    -> REDIRECTS TO: https://www.hackerone.com/product/overview
+403    17B   https://www.hackerone.com:443/revision.inc
+200   143KB  https://www.hackerone.com:443/resources
+200     2KB  https://www.hackerone.com:443/robots.txt
+200   196KB  https://www.hackerone.com:443/search
+301   366B   https://www.hackerone.com:443/security/    -> REDIRECTS TO: https://hackerone.com/security
+403    17B   https://www.hackerone.com:443/server-status/
+403    17B   https://www.hackerone.com:443/server-status
+200    61KB  https://www.hackerone.com:443/services
+301   366B   https://www.hackerone.com:443/security    -> REDIRECTS TO: https://hackerone.com/security
+403    17B   https://www.hackerone.com:443/settings.php.bak
+403    17B   https://www.hackerone.com:443/settings.php.save
+403    17B   https://www.hackerone.com:443/settings.php.swp
+403    17B   https://www.hackerone.com:443/settings.php~
+403    17B   https://www.hackerone.com:443/shell.sh
+200   278KB  https://www.hackerone.com:443/sitemap.xml
+301   239B   https://www.hackerone.com:443/sites    -> REDIRECTS TO: http://www.hackerone.com/sites/
+403    17B   https://www.hackerone.com:443/sql.inc
+200    56KB  https://www.hackerone.com:443/terms
+301   240B   https://www.hackerone.com:443/themes    -> REDIRECTS TO: http://www.hackerone.com/themes/
+301   374B   https://www.hackerone.com:443/ui/    -> REDIRECTS TO: https://hackerone.com/hacktivity
+301   374B   https://www.hackerone.com:443/ui    -> REDIRECTS TO: https://hackerone.com/hacktivity
+302   390B   https://www.hackerone.com:443/user/    -> REDIRECTS TO: https://www.hackerone.com/user/login
+301   390B   https://www.hackerone.com:443/user/login/    -> REDIRECTS TO: https://www.hackerone.com/user/login
+302   390B   https://www.hackerone.com:443/user    -> REDIRECTS TO: https://www.hackerone.com/user/login
+403   461B   https://www.hackerone.com:443/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/vendor/phpunit/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/vendor/phpunit/src/Util/PHP/eval-stdin.php
+403   461B   https://www.hackerone.com:443/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403    17B   https://www.hackerone.com:443/web.config
+403    17B   https://www.hackerone.com:443/wp-config.inc
+301   258B   https://www.hackerone.com:443/wp-admin/install.php    -> REDIRECTS TO: http://www.hackerone.com/wp-admin/core/install.php
+403    17B   https://www.hackerone.com:443/wp-config.php.bak
+403    17B   https://www.hackerone.com:443/wp-config.php.save
+403    17B   https://www.hackerone.com:443/wp-config.php.inc
+403    17B   https://www.hackerone.com:443/wp-config.php~
+403    17B   https://www.hackerone.com:443/wp-config.php.swp

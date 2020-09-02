@@ -1,0 +1,7 @@
+/extclk
+pagead/viewthroughconversion/
+pagead/1p-conversion/
+pagead/conversion/
+en_US.html
+https://bid.g.doubleclick.net/xbbe/pixel?d=KAE
+https://services.google.com/sitestats/

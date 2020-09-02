@@ -1,0 +1,35 @@
+200 OK
+Last-Modified: Tue, 01 Sep 2020 04:31:37 GMT
+Vary: Cookie,X-Geo-Country
+X-Permitted-Cross-Domain-Policies: none
+X-Cache: HIT
+X-Drupal-Dynamic-Cache: HIT
+X-Frame-Options: DENY
+X-Drupal-Cache: HIT
+X-Request-Id: v-47a1b9e6-ec0c-11ea-90bf-e70708235252
+Age: 14
+Accept-Ranges: bytes
+Server: cloudflare
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Type: text/html; charset=UTF-8
+X-Ua-Compatible: IE=edge
+X-Cache-Hits: 1
+Cache-Control: max-age=300, public
+X-Generator: Drupal 8 (https://www.drupal.org)
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src blob: js.driftt.com *.youtube-nocookie.com app-sj17.marketo.com; connect-src 'self' secure.adnxs.com *.6sense.com *.6sc.co *.company-target.com api.lever.co distillery.wistia.com pipedream.wistia.com embed-fastly.wistia.com embedwistia-a.akamaihd.net *.litix.io embed-ssl.wistia.com hackerone.com *.mktoresp.com *.mktoutil.com checkout.stripe.com; font-src 'self' data: fonts.gstatic.com; form-action 'self' *.twitter.com; frame-ancestors 'self'; frame-src fast.wistia.com js.driftt.com *.youtube.com *.youtube-nocookie.com app-sj17.marketo.com *.twitter.com; object-src 'self'; img-src 'self' data: via.placeholder.com t.co stats.g.doubleclick.net *.google.com *.6sc.co *.bidr.io *.techtarget.com *.company-target.com *.adsymptotic.com *.linkedin.com cdn.ttgtmedia.com embed-fastly.wistia.com embedwistia-a.akamaihd.net fast.wistia.com *.google-analytics.com *.twitter.com *.twimg.com cdn.bizible.com; media-src 'self' blob: data: embed-fastly.wistia.com embedwistia-a.akamaihd.net fast.wistia.com; script-src 'self' 'sha256-XrP50Mq6s78GLH2Vyt4BfKhn8rx4OdU6FYqQGbxRuZc=' 'sha256-chw1FVji+ddLlO/RrcP3fhKOLsJUUh+FaKbjsOC2BiQ=' 'sha256-D6d37gZGDMRuNu3bDdYkGuOfCaaNGdTrB3eF5d5IU/Y=' *.ads-twitter.com analytics.twitter.com *.cloudflare.com *.techtarget.com *.demandbase.com *.6sc.co *.linkedin.com snap.licdn.com fast.wistia.com js.driftt.com *.google-analytics.com app-sj17.marketo.com munchkin.marketo.net *.twitter.com cdn.syndication.twimg.com cdn.bizible.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com fast.wistia.com app-sj17.marketo.com *.twitter.com; report-uri https://errors.hackerone.net/api/30/csp-report/?sentry_key=61c1e2f50d21487c97a071737701f598
+X-Geo-Country: CA
+Content-Language: en
+X-Xss-Protection: 1; mode=block
+Expect-Ct: enforce, max-age=31536000
+Via: varnish
+Etag: "1598934697"
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 5cbcf6305a2ad829-EZE
+Retry-Count: 0
+Date: Tue, 01 Sep 2020 06:33:46 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Link: <https://www.hackerone.com/>; rel="canonical", <https://www.hackerone.com/>; rel="shortlink" <https://www.hackerone.com/home>; rel="alternate"; hreflang="en" <https://www.hackerone.com/home>; rel="revision"
+X-Ah-Environment: prod
+X-Content-Type-Options: nosniff
+Cf-Request-Id: 04e9f8323b0000d8291b2dd200000001

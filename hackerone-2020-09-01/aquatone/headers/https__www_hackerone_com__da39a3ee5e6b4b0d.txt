@@ -1,0 +1,36 @@
+200 OK
+X-Cache: HIT
+X-Cache-Hits: 2
+Cache-Control: max-age=300, public
+Etag: "1598934697"
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-Xss-Protection: 1; mode=block
+X-Ua-Compatible: IE=edge
+Server: cloudflare
+Content-Type: text/html; charset=UTF-8
+X-Geo-Country: US
+Expect-Ct: enforce, max-age=31536000
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Permitted-Cross-Domain-Policies: none
+Via: varnish
+Cf-Request-Id: 04e9f83373000074db29b63200000001
+Cf-Ray: 5cbcf6325aa774db-EZE
+Link: <https://www.hackerone.com/>; rel="canonical", <https://www.hackerone.com/>; rel="shortlink" <https://www.hackerone.com/home>; rel="alternate"; hreflang="en" <https://www.hackerone.com/home>; rel="revision"
+Content-Language: en
+Last-Modified: Tue, 01 Sep 2020 04:31:37 GMT
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Age: 8
+Set-Cookie: __cfduid=d002bf341b88a0be4e1f31d9c9496c54f1598942026; expires=Thu, 01-Oct-20 06:33:46 GMT; path=/; Domain=www.hackerone.com; HttpOnly; SameSite=Lax; Secure
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src blob: js.driftt.com *.youtube-nocookie.com app-sj17.marketo.com; connect-src 'self' secure.adnxs.com *.6sense.com *.6sc.co *.company-target.com api.lever.co distillery.wistia.com pipedream.wistia.com embed-fastly.wistia.com embedwistia-a.akamaihd.net *.litix.io embed-ssl.wistia.com hackerone.com *.mktoresp.com *.mktoutil.com checkout.stripe.com; font-src 'self' data: fonts.gstatic.com; form-action 'self' *.twitter.com; frame-ancestors 'self'; frame-src fast.wistia.com js.driftt.com *.youtube.com *.youtube-nocookie.com app-sj17.marketo.com *.twitter.com; object-src 'self'; img-src 'self' data: via.placeholder.com t.co stats.g.doubleclick.net *.google.com *.6sc.co *.bidr.io *.techtarget.com *.company-target.com *.adsymptotic.com *.linkedin.com cdn.ttgtmedia.com embed-fastly.wistia.com embedwistia-a.akamaihd.net fast.wistia.com *.google-analytics.com *.twitter.com *.twimg.com cdn.bizible.com; media-src 'self' blob: data: embed-fastly.wistia.com embedwistia-a.akamaihd.net fast.wistia.com; script-src 'self' 'sha256-XrP50Mq6s78GLH2Vyt4BfKhn8rx4OdU6FYqQGbxRuZc=' 'sha256-chw1FVji+ddLlO/RrcP3fhKOLsJUUh+FaKbjsOC2BiQ=' 'sha256-D6d37gZGDMRuNu3bDdYkGuOfCaaNGdTrB3eF5d5IU/Y=' *.ads-twitter.com analytics.twitter.com *.cloudflare.com *.techtarget.com *.demandbase.com *.6sc.co *.linkedin.com snap.licdn.com fast.wistia.com js.driftt.com *.google-analytics.com app-sj17.marketo.com munchkin.marketo.net *.twitter.com cdn.syndication.twimg.com cdn.bizible.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com fast.wistia.com app-sj17.marketo.com *.twitter.com; report-uri https://errors.hackerone.net/api/30/csp-report/?sentry_key=61c1e2f50d21487c97a071737701f598
+X-Request-Id: v-417b8812-ec0c-11ea-9aba-f7310a2b0ff3
+X-Ah-Environment: prod
+Cf-Cache-Status: DYNAMIC
+Date: Tue, 01 Sep 2020 06:33:46 GMT
+X-Frame-Options: DENY
+Vary: Cookie,X-Geo-Country
+Accept-Ranges: bytes
+X-Drupal-Dynamic-Cache: HIT
+X-Drupal-Cache: HIT
+Retry-Count: 0

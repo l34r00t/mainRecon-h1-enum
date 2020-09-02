@@ -1,0 +1,2 @@
+/cdn-cgi/bm/cv/result?req_id=
+application/json

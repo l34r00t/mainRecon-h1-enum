@@ -1,0 +1,21 @@
+200 OK
+Accept-Ranges: bytes
+Age: 2
+X-Served-By: cache-scl19420-SCL
+X-Cache-Hits: 1
+X-Timer: S1598942028.450895,VS0,VE1
+Cache-Control: max-age=600
+Via: 1.1 varnish
+X-Fastly-Request-Id: b53a8a2ebee81a605ac88928751f7e780852a37c
+Content-Type: text/html; charset=utf-8
+Expires: Tue, 01 Sep 2020 05:49:57 GMT
+Date: Tue, 01 Sep 2020 06:33:48 GMT
+X-Cache: HIT
+Vary: Accept-Encoding
+Last-Modified: Fri, 28 Aug 2020 20:37:25 GMT
+Etag: W/"5f496b05-100f5"
+Access-Control-Allow-Origin: *
+X-Proxy-Cache: MISS
+X-Github-Request-Id: 891E:6F44:6F1D5:A0F6F:5F4DDEAD
+Retry-Count: 0
+Server: GitHub.com

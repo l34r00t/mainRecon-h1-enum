@@ -1,0 +1,13 @@
+text/xml
+text/plain
+text/html
+application/x-www-form-urlencoded
+application/json
+./version
+./escape-selector
+./focusable
+image/jpeg
+image/gif
+image/png
+http://www.w3.org/TR/SVG11/feature#Image
+image/webp
