@@ -26,12 +26,13 @@
   mainRecon for bugbounty hunter is an image with a bash script with some of the tools used at recon workflow.
 </p>
 
-## mainRecon results
+# mainRecon results
 
 ### h1-Recon
-[![asciicast](https://asciinema.org/a/356881.svg)](https://asciinema.org/a/356881)
 
-### mainRecon Alert
+In the following repository you will obtain all hackerone recon results.
+
+## mainRecon Alert
 
 <img
       alt="mainRecon for bugbounty hunter"
@@ -39,8 +40,14 @@
       width="600"
 />
 
-### mainRecon Results
+## mainRecon Alert
 
-In the following repository you will obtain all hackerone recon results.
+<img
+      alt="mainRecon for bugbounty hunter"
+      src="img/h1-results.png"
+      width="600"
+/>
 
-1. [h1 recon results](./hackerone-2020-09-01/)
+## mainRecon Results for hackerone
+
+[hackerone-2020-09-01](./hackerone-2020-09-01/)
